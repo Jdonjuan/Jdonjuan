@@ -15,7 +15,8 @@
 - Azure
 
 # BudgetBoy.net
-My most recent project BudgetBoy.net is a Budgeting web app built with React for frontend and AWS for the backend.
+
+#### My most recent project BudgetBoy.net is a Budgeting web app built with React for frontend and AWS for the backend.
 
 ### Front end repo: [Jdonjuan/budget-boy-web](https://github.com/Jdonjuan/budget-boy-web)
 ### Back end repo: [Jdonjuan/BB-Backend](https://github.com/Jdonjuan/BB-Backend)  
